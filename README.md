@@ -1,2 +1,3 @@
 # Plant-Disease-Detection
-This repository showcases my learning on the Plant Disease Detection Machine Learning Project. 
+
+Here, Used Dataset is taken from Kaggle.
