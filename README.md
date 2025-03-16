@@ -22,7 +22,13 @@ This project utilizes a Convolutional Neural Network (CNN) model to identify pla
 * **Streamlit:** Web application framework.
 * **Dataset:** Image dataset for training model taken from Kaggle.
 
-## Getting Started
+## Screenshots
+
+![Screenshot (3628)](https://github.com/user-attachments/assets/07329665-3029-4036-b270-c1988e9c10c8)
+
+![Screenshot (3627)](https://github.com/user-attachments/assets/b327beff-a8c2-40f2-8235-51029e714576)
+
+![image](https://github.com/user-attachments/assets/263608db-5f43-4fe1-9d82-903ba30a2e39)
 
 ### Prerequisites
 
