@@ -38,6 +38,14 @@ This project utilizes a Convolutional Neural Network (CNN) model to identify pla
 * Streamlit
 * NumPy
 
+### Dataset 
+
+Dataset is taken from Kaggle.
+
+### Model 
+
+Model Link - https://drive.google.com/file/d/10lxxT8tQehjuZd-ffBdiZ3dgDkorNsGK/view?usp=drive_link
+
 ### Installation
 
 1.  Clone the repository:
